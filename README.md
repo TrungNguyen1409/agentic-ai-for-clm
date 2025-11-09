@@ -1,6 +1,6 @@
 # Multi-Agentic AI Systems for Contract Lifecycle Management
 
-Master's Thesis Project - Technical University of Munich
+Master's Thesis Project - Technical University of Munich 
 
 **Author:** Trung Nguyen
 **Supervisor:** Prof. Dr. Ingo Weber
